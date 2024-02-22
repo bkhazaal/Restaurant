@@ -1,5 +1,6 @@
 const createRestaurantHomePage = () => {
-    const content = document.querySelector("#content");
+    console.log("itsworking");
+    const content = document.getElementById("content");
     const pageContent = document.createElement('div');
     pageContent.classList.add('page-content');
 

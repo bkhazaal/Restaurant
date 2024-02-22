@@ -1,3 +1,4 @@
-import pageLoad from './pageLoad';
+import initialLoad from './pageLoad';
+console.log("itsworking");
 
-pageLoad();
+initialLoad();
